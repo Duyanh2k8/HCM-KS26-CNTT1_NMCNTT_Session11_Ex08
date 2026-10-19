@@ -43,6 +43,7 @@ Nếu muốn thay thế dữ liệu cũ, sao chép cột đã làm sạch, chọ
 - Cột Điểm Xét Duyệt: Chọn điều kiện lớn hơn hoặc bằng 8.0.
 
 Hai điều kiện được áp dụng đồng thời, nghĩa là báo cáo viên phải vừa thuộc khoa CNTT, vừa có điểm xét duyệt từ 8.0 trở lên.
+
 **Bước 4: Nghiệm thu**
 
 Kiểm tra kết quả lọc, bảo đảm không còn hàng tiêu đề phụ, hàng trống hoặc hàng tổng trong vùng dữ liệu. Số kết quả thực tế có thể khác dự kiến khoảng 35 người vì còn phụ thuộc vào dữ liệu thật.
